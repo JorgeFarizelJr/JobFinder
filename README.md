@@ -1,0 +1,1 @@
+Projeto de site de busca e cadastro de vagas, utilizando ferramentas de front e back-end, com foco em back-end. Neste projeto foram desenvolvidas habilidades em JavaScript e Typescript, com o uso do Node e do Express.
